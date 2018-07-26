@@ -1,5 +1,5 @@
 file = open('price.txt','r')
-#print(file.read())
+print(file.read())
 data = []
 line = file.readline()
 while (line != ''):
