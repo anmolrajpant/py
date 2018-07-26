@@ -1,6 +1,10 @@
 file = open('price.txt','r')
+<<<<<<< HEAD
 
 #print(file.read())
+=======
+print(file.read())
+>>>>>>> anmol
 data = []
 line = file.readline()
 while (line != ''):
