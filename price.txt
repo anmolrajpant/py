@@ -1,0 +1,10 @@
+Tomato, 40, 50
+Potato,55, 60
+Onion,50,60
+Pumpkin,40,50
+Banana,90,100
+Garlic,150,200
+Ginger, 110, 120
+Mushroom,180,200
+Celery,110,120
+Cabbage,50,60
