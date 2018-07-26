@@ -1,4 +1,5 @@
 file = open('price.txt','r')
+
 #print(file.read())
 data = []
 line = file.readline()
