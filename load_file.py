@@ -1,10 +1,5 @@
-file = open('price.txt','r')
-<<<<<<< HEAD
-
-#print(file.read())
-=======
+gifile = open('price.txt','r')
 print(file.read())
->>>>>>> anmol
 data = []
 line = file.readline()
 while (line != ''):
